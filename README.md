@@ -1,3 +1,3 @@
-# lab1test
+# mds.labs
 MDS labs test
 
